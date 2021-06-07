@@ -1,6 +1,9 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 11 Solution
+ *  Copyright 2021 Paul Shannon
+ */
 package base;
 
-import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.util.Scanner;
